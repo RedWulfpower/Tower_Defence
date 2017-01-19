@@ -1,0 +1,23 @@
+Changelog
+
+0.0.1 am xx.xx.2017
+- Code kommplet erneuert
+- 3D Map mit three.js
+- Input Felder eingefügt mit Text und Zahlen
+
+
+
+0.0.0.1 am 26.06.2016 - Aktuell
+ - Angefangen Changelog zu schreibrn
+ - Optionen, Credits, Changelog, Welten Button im Hauptmenü
+ - Credits:
+    - Autolink zur Kontaktseite, beim Button "Kontakt"
+ - Optionen:
+    - Volbild Funktion
+    - Tastenbeleguing anschauen / Bearbeiten
+ - Welten auswahl
+    - Test Welt
+    - Richtige Welt die noch aufgebaut wird
+ - Scrollbar erstellbar
+ - Text erstellbar
+ - Button erstellbar
